@@ -1,0 +1,7 @@
+{
+  "name": "FinGestor n8n",
+  "description": "Sistema Gestor Financeiro com Integração n8n - Plataforma SaaS para automação financeira e gestão inteligente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
